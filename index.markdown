@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Please copy the url link after logging into your Bungie account. Then use that link for the API wrapper tool.
